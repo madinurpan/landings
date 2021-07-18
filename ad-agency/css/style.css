@@ -315,11 +315,11 @@ i::before, i::after {
     align-items: center;
 }
 
-#google-map {
+#map-2gis{
     height: 400px;
     width: 100%;
 }
-.col-map #google-map {
+.col-map #map-2gis {
     height: 409px;
 }
 .h-100vh {
@@ -2755,6 +2755,7 @@ footer.bg-black2 {
 .bg-change .split-container-setting .main-title h5, .bg-change .split-container-setting .main-title h2,
 .bg-change .split-container-setting h6, .bg-change .split-container-setting p {
     color: #ffffff;
+    font-size: 1.6rem;
 }
 
 .split-container-setting.style-two {
