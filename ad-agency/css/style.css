@@ -1026,6 +1026,10 @@ header.header-appear .navbar-top-default .header-social a.google-text-hvr:hover 
 header.header-appear .navbar-top-default .header-social a:hover {
     background: transparent;
 }
+.button_whatsapp{
+    display: inline-block;
+    margin-right: 50px;
+}
 /* nav box shadow */
 .nav-box-shadow {
     -webkit-box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.15);
