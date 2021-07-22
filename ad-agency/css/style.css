@@ -786,6 +786,9 @@ nav .btn-setting {
 .transparent-bg.black .menu_bars span, .just-menu .menu_bars span {
     background: #212622;
 }
+.navbar ul{
+    padding: 0.5rem 0rem 0.5rem 5rem;
+}
 .navbar .menu-btn{
     display: none;
 }
